@@ -1,0 +1,6 @@
+# Normalize line endings
+* text=auto
+
+git add .gitignore .gitattributes
+git commit -m "Fix line endings and add .gitattributes"
+git push origin main
